@@ -1,1 +1,2 @@
-# tempTest.github.io
+About the Site
+This site is a showcase of my skills and achievements as a mechanical engineer and a full stack web and Android developer. Here, you can find information about my education, work experience, and technical expertise, as well as examples of my projects and collaborations. Whether you are interested in mechatronics, computer applications, or modern web and mobile app development, this site has something to offer. Feel free to reach out to me through the contact page if you have any questions or opportunities for collaboration.
