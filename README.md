@@ -12,3 +12,4 @@ My portfolio site is a place for you to learn more about my skills, experience, 
 
 If you're interested in learning more about me or have a project you'd like to collaborate on, don't hesitate to reach out! You can contact me through the form on my site, or connect with me on [LinkedIn](https://www.linkedin.com/in/samyak-indurkar-627844153).
 
+Thank you for visiting my portfolio site. I look forward to connecting with you!
